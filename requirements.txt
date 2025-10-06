@@ -1,0 +1,3 @@
+Python 3.8 or higher
+No external libraries are required (uses only built-in Python modules)
+
